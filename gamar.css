@@ -1,0 +1,46 @@
+ h1{ text-align: center;margin-top: 0;}
+ howa{display: flex;
+ justify-content: space-between;}
+.main{
+    background-image: url('background-office-bg-changed.jpg');
+    color: white;}
+.main> p{margin: 45px;
+    padding: 35px;}
+.main > h1{
+    padding-top: 15px;}
+    .howa{display: flex;justify-content: space-around;}
+    .howa >div{
+        width: 30%;
+        background-color: #d7ccc8;
+        border-radius: 15px;
+    }
+    .howa >div>img{
+        border-radius: 10px;
+        padding: 15px;
+    }
+    p{text-align: center;}
+    h5{text-align: center;}
+     .howa{background-color: #f4f1ea;}
+     .noha {
+        display: flex;
+        background-color:#8d6e63 ;
+        justify-content: space-between;
+        align-items: center;
+        
+    margin: 0;}
+    .noha>div>a{
+        color: white;
+        font-size: larger;
+        padding: 8px;
+        text-decoration: none;}
+    
+
+    footer{text-align: center;}
+    footer{background-color: #8d6e63;}
+    .howa{text-align: center;}
+    .howa{border: #f4f1ea;}
+    .howa{padding: 10px;}
+    .howa{margin: 10px;}
+    
+    .noha{padding: 8px;}
+    .soha{background-color: #efebe9 ;}
